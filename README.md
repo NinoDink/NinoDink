@@ -51,8 +51,8 @@
   <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NinoDink&layout=compact&hide_border=true&title_color=87CEFA&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-<h2>Ferramentas utilizadas</h2>
-<p></p>
+<h2>🛠️ Ferramentas utilizadas</h2>
+<p>Utilizo diversas ferramentas que me auxiliam no desenvolvimento e na organização dos meus projetos, garantindo produtividade, qualidade e boas práticas.</p>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
@@ -61,12 +61,31 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 
-<!-- Redes sociais -->
+<h2>🌐 Redes Sociais</h2>
+<p>Aqui estão alguns dos lugares onde costumo compartilhar projetos, ideias e me conectar com outras pessoas da área. Se quiser trocar uma ideia sobre tecnologia, design ou programação, é só chamar!</p>
+
 <div align="center"> 
-  <a href="https://www.instagram.com/just_a_beingk/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:richardepflores@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/renan-gabriel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://br.pinterest.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/just_a_beingk/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:richardepflores@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/renan-gabriel/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/seu-servidor" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://x.com/seu-usuario" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
 </div>
+
+
 
 ##
 
