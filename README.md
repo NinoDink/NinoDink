@@ -18,8 +18,8 @@
 
 <!-- Estatísticas -->
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=NinoDink&show_icons=true&count_private=true&hide_border=true&title_color=87CEFA&icon_color=87CEFA&text_color=c9d1d9&bg_color=0d1117" alt="GitHub stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NinoDink&layout=compact&hide_border=true&title_color=87CEFA&text_color=c9d1d9&bg_color=0d1117" />
+  ![NinoDink's Stats](https://github-readme-stats.vercel.app/api?username=NinoDink&theme=nightowl&show_icons=true&hide_border=false&count_private=true) 
+  ![NinoDink's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NinoDink&theme=nightowl&show_icons=true&hide_border=false&layout=compact)
 </div>
 
 <!-- Redes sociais -->
