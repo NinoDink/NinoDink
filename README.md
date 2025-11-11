@@ -9,7 +9,7 @@
 </p>
 
 <!-- Gráfico de atividade -->
-[![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chard-reidocapa444&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NinoDink&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Troféus -->
 <p align="center">
