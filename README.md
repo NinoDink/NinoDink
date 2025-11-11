@@ -17,10 +17,8 @@
 </p>
 
 <!-- Estatísticas -->
-<div align="center">  
-  ![NinoDink's Stats](https://github-readme-stats.vercel.app/api?username=NinoDink&theme=nightowl&show_icons=true&hide_border=false&count_private=true) 
-  ![NinoDink's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NinoDink&theme=nightowl&show_icons=true&hide_border=false&layout=compact)
-</div>
+[![NinoDink's Stats](https://github-readme-stats.vercel.app/api?username=NinoDink&theme=nightowl&show_icons=true&hide_border=false&count_private=true) 
+[![NinoDink's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NinoDink&theme=nightowl&show_icons=true&hide_border=false&layout=compact)
 
 <!-- Redes sociais -->
 <div align="center"> 
