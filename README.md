@@ -4,7 +4,7 @@
 <!-- Texto animado centralizado -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Olá+meu+nome+é+Erik;Estou+em+um+curso+Superior+em+Tecnologia;Seja+bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Ol%C3%A1,+meu+nome+%C3%A9+Erik;Estou+em+um+curso+Superior+de+Tecnologia+em+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Seja+bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
   </a>
 </p>
 
