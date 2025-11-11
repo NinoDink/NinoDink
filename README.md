@@ -1,4 +1,5 @@
-## Hi there 👋
+##✨ - Olá, Bem vindo ao Meu Perfil do GitHub - ✨
+# Meu nome é Erik de Oliveira Euzebio, mas muitos me Chamam de Erik
 
 **NinoDink/NinoDink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
