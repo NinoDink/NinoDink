@@ -1,5 +1,5 @@
 <!-- Cabeçalho com onda -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=8732a8"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=8732a8&text=Bem%20Vindo&fontAlignY=75&fontColor=d4a75b&fontSize=70"/>
 
 <!-- Texto animado centralizado -->
 <p align="center">
