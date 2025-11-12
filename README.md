@@ -14,31 +14,37 @@
 <p>No lado profissional, venho me aprofundando em <strong>desenvolvimento web</strong> e <strong>integração com IoT</strong>, sempre buscando evoluir como criador e desenvolvedor.</p>
 
 <h2>🚀 Projetos Favoritos</h2>
-<p>🎮 - [ Jogo da Cobrinha ] -> (https://github.com/NinoDink/SnakeGame) - Utilizando apenas HTML, CSS, e Java Script fiz um site em que pode jogar o clássico jogo da cobrinha.</p>
-<p>💻 - [ Web Portfólio ] -> (https://github.com/NinoDink/Portfolio) - Aqui foi quando decidi criar uma forma rápida de ter acesso sobre mim.</p>
-<p>🛸 - [ Projeto Minha Cara ] -> (https://github.com/NinoDink/projetoMinhaCara) - É notálgico ver o primeiro site que eu fiz no SENAI, uma wiki da série "Diário dos Horrores"</p>
+<p>🎮 - <a href="https://github.com/NinoDink/SnakeGame">Jogo da Cobrinha</a> - Utilizando apenas HTML, CSS, e JavaScript, criei uma versão jogável do clássico jogo da cobrinha.</p>
+<p>💻 - <a href="https://github.com/NinoDink/Portfolio">Web Portfólio</a> - Um site para reunir informações sobre mim de forma prática e visual.</p>
+<p>🛸 - <a href="https://github.com/NinoDink/projetoMinhaCara">Projeto Minha Cara</a> - Meu primeiro site no SENAI: uma wiki inspirada na série "Diário dos Horrores".</p>
 
 <h2>📚 Estudando</h2>
 <p>Atualmente estou estudando <strong>programação mobile</strong>, <strong>React</strong> e <strong>React Native</strong>, além de me aprofundar em <strong>automação com Python</strong>. Tenho interesse em criar aplicações integradas, focadas em experiência do usuário e eficiência técnica.</p>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">&nbsp;
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">&nbsp;
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">&nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</p>
 
-<h2>💻 Experiência digital</h2>
+<h2>💻 Experiência Digital</h2>
 <p>Há 2 anos atuo na área de programação, com foco em desenvolvimento web. Domino tecnologias front-end e back-end e busco sempre evoluir em boas práticas e integração entre sistemas.</p>
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+</p>
 
 <h2>📊 Atividade no GitHub</h2>
 
 <!-- Gráfico de atividade -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NinoDink&bg_color=011627&color=c792ea&line=ae7ecd&point=fff0ad&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NinoDink&bg_color=011627&color=c792ea&line=ae7ecd&point=fff0ad&area=true&hide_border=true" />
+</p>
 
 <!-- Troféus -->
 <p align="center">
@@ -47,50 +53,44 @@
 
 <!-- Estatísticas -->
 <div align="center">  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NinoDink&show_icons=true&count_private=true&hide_border=true&title_color=87CEFA&icon_color=87CEFA&text_color=c9d1d9&bg_color=0d1117" alt="GitHub stats" /> 
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NinoDink&layout=compact&hide_border=true&title_color=87CEFA&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NinoDink&show_icons=true&count_private=true&hide_border=true&title_color=d4a75b&icon_color=d4a75b&text_color=c9d1d9&bg_color=0d1117" alt="GitHub stats" /> 
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NinoDink&layout=compact&hide_border=true&title_color=d4a75b&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-<h2>🛠️ Ferramentas utilizadas</h2>
+<h2>🛠️ Ferramentas Utilizadas</h2>
 <p>Utilizo diversas ferramentas que me auxiliam no desenvolvimento e na organização dos meus projetos, garantindo produtividade, qualidade e boas práticas.</p>
 
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)&nbsp;
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+<p align="center">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+</p>
 
 <h2>🌐 Redes Sociais</h2>
 <p>Aqui estão alguns dos lugares onde costumo compartilhar projetos, ideias e me conectar com outras pessoas da área. Se quiser trocar uma ideia sobre tecnologia, design ou programação, é só chamar!</p>
 
 <div align="center"> 
-  <a href="https://br.pinterest.com/" target="_blank">
+  <a href="https://br.pinterest.com/ninodinkoficial/" target="_blank">
     <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/just_a_beingk/" target="_blank">
+  <a href="https://www.instagram.com/nino.dink/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:richardepflores@gmail.com" target="_blank">
+  <a href="mailto:oliveiraeuzebioe@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/renan-gabriel/" target="_blank">
+  <a href="https://www.linkedin.com/in/erik-o-97a5162a9/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://discord.gg/seu-servidor" target="_blank">
-    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://x.com/seu-usuario" target="_blank">
+  <a href="https://x.com/NinoDink" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </div>
 
-
-
-##
-
-<!-- Certificações -->
-<h2 align="left">🏆 Certificações</h2>
+<h2>🏆 Certificados</h2>
 
 <p align="center">
   <a href="https://www.credly.com/badges/2db6ea12-b745-4493-8b40-bd6ba0eaec7c">
