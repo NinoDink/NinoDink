@@ -50,8 +50,8 @@ Meu primeiro aplicativo, onde você pode guardar seu humor em emojis e notas.
 
   <!-- Estatísticas -->
   <p>
-    <img width="48%" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=NinoDink&show_icons=true&hide_border=true&title_color=d4a75b&text_color=c9d1d9&bg_color=0d1117">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NinoDink&layout=compact&hide_border=true&title_color=d4a75b&text_color=c9d1d9&bg_color=0d1117">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NinoDink&show_icons=true&hide_border=true&title_color=d4a75b&text_color=c9d1d9&bg_color=0d1117" />
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NinoDink&layout=compact&hide_border=true&title_color=d4a75b&text_color=c9d1d9&bg_color=0d1117" />
   </p>
 
 </div>
