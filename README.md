@@ -2,10 +2,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=8732a8&text=Bem-Vindo&fontColor=d4a75b&fontSize=55"/>
 
 ## 👨‍💻 Sobre mim
-Sou estudante do **Superior de Tecnologia em Análise e Desenvolvimento de Sistemas**, com foco em **desenvolvimento web**, **programação mobile** e **integração com IoT**.  
-Interesso-me por criar interfaces funcionais, resolver problemas reais e desenvolver aplicações eficientes.
+Sou estudante de **Tecnologia em Análise e Desenvolvimento de Sistemas**, com foco em **desenvolvimento web**, **programação mobile** e **integração com IoT**.
+Tenho interesse em criar interfaces funcionais, acessíveis e de fácil compreensão, buscando soluções que tornem a tecnologia mais simples e intuitiva para diferentes perfis de usuários.
 
-Atualmente estudo:
+Atualmente estudo e pratico:
 - **React**
 - **React Native**
 - **Automação com Python**
@@ -13,7 +13,7 @@ Atualmente estudo:
 
 ---
 
-## 🚀 Projetos
+## 🚀 Projetos Marcantes
 **🎮 Jogo da Cobrinha**  
 HTML, CSS e JavaScript em uma versão jogável do clássico Snake.  
 👉 https://github.com/NinoDink/SnakeGame
@@ -22,9 +22,13 @@ HTML, CSS e JavaScript em uma versão jogável do clássico Snake.
 Site pessoal organizado e visual, destacando minhas habilidades e projetos.  
 👉 https://github.com/NinoDink/Portfolio
 
-**🛸 Projeto Minha Cara**  
-Wiki interativa inspirada em "Diário dos Horrores".  
-👉 https://github.com/NinoDink/projetoMinhaCara
+**🛸 SmartHouse**  
+Um site para um projeto em grupo, onde o objetivo era automatizar uma maquete de uma casa.  
+👉 (colocar link aqui!)
+
+**😀 MoodTracker**
+Meu primeiro aplicativo, onde você pode guardar seu humor em emojis e notas.
+👉 https://github.com/NinoDink/MoodTracker
 
 ---
 ## 📊 Tecnologias e Estatísticas
