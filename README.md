@@ -1,6 +1,3 @@
-<img width="1654" height="2339" alt="b39df1bfc1644e36b70a101df8cbf485niLAiAqLICU4LhQh-1" src="https://github.com/user-attachments/assets/6d5e3aa6-e2cc-46b7-b170-0edca7cd4a73" /><!-- Cabeçalho -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=8732a8&text=Bem-Vindo&fontColor=d4a75b&fontSize=55"/>
-
 ## 👨‍💻 Sobre mim
 Sou estudante de **Tecnologia em Análise e Desenvolvimento de Sistemas**, com foco em **desenvolvimento web**, **programação mobile** e **integração com IoT**.
 Tenho interesse em criar interfaces funcionais, acessíveis e de fácil compreensão, buscando soluções que tornem a tecnologia mais simples e intuitiva para diferentes perfis de usuários.
