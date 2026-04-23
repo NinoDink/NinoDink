@@ -47,7 +47,7 @@ Um site para um projeto em grupo, onde o objetivo era automatizar uma maquete de
 👉 (colocar link aqui!)
 
 **😀 MoodTracker**
-Meu primeiro aplicativo, onde você pode guardar seu humor em emojis e notas.
+Meu primeiro aplicativo, onde você pode guardar seu humor em emojis e notas.<br>
 👉 https://github.com/NinoDink/MoodTracker
 
 <p>&nbsp;</p>
